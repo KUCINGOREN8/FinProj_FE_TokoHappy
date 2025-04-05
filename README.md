@@ -2,8 +2,10 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-To install Icon -> npm i lucide-react
-To install Router -> npm i react-router-dom
+## Installation Notes
+
+To install Icon : npm i lucide-react
+To install Router : npm i react-router-dom
 
 Currently, two official plugins are available:
 
